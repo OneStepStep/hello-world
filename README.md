@@ -1,2 +1,4 @@
 # hello-world
-Just a practtice reposity
+Just a practice reposity
+
+Hello everyone, I`m Grand. I major in software testing.
